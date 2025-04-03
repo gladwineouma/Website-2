@@ -138,3 +138,31 @@ body {
   font-size: larger;
 
  }
+ .btn{
+  background-color: orange;
+  color: white;
+ }
+
+ .choose{
+  display: flex;
+  
+ }
+
+ .hesitate{
+  text-align: center;
+ }
+
+ .class{
+  display: flex;
+ }
+ footer{
+  background-color: black;
+  color: white;
+  display: flex;
+
+ }
+
+ .helping{
+  background-color: orange;
+  color: white;
+ }

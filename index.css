@@ -1,0 +1,140 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 4px;
+    box-sizing: border-box;
+  }
+
+
+  .section1{
+    background-image: url(https://media.istockphoto.com/id/1308654909/photo/family-moving-and-using-a-boxes.jpg?s=2048x2048&w=is&k=20&c=--A7gk4WNleFTsEFb-lT5Q5LdNc_BZFd_1mRjQr4AF0=);
+  width:100% ;
+  height: 1000px;
+  text-align: center;
+  padding-top: 400px;
+  color: white;
+
+  
+  }
+
+
+
+  nav{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    gap: 50px;
+    color: grey;
+  }
+
+  #home{
+    color: orange;
+  }
+
+  .header container{
+    display: flex;
+  }
+
+  .services{
+    display: flex;
+    justify-content:space-evenly;
+  }
+  .learn{
+    display: flex;
+    gap: 150px;
+    justify-content: space-evenly;
+    }
+    #image1{
+      width:600px;
+      height: 500px;
+    }
+
+    #image2{
+      width:600px;
+      height: 500px;
+      padding-right: 30px;
+    }
+
+    .head{
+      display: flex;
+      justify-content: space-around;
+      
+    }
+
+    #storage{
+      background-color: rgb(6, 6, 175);
+    }
+    .image{
+      padding-right: 0%;
+    }
+  
+    .video{
+      padding-right: 4px;
+    }
+
+    .why{
+      padding-right: 10px;
+    }
+  .image{
+    display: flex;
+    padding-left: 20px;
+  }
+
+ .button button{
+  background-color: orange;
+  color: white;
+  border: none;
+  width: 200px;
+  height: 40px;
+ }
+
+ #what{
+  text-align: center;
+ }
+
+ .testimonials{
+  display: flex;
+  justify-content: space-evenly;
+ }
+
+ .news{
+  text-align: center;
+  font-size: x-large;
+
+ }
+
+ .Blog{
+ text-align: center;
+ font-size: x-large;
+ }
+
+
+ .our{
+  text-align: center;
+  font-size: xx-large;
+ }
+
+
+ .Comment{
+  display: flex;
+  justify-content: space-evenly;
+ }
+
+ .booking{
+  display: flex;
+ }
+
+ .book{
+  background-color: orange;
+  color: white;
+  width: 50%;
+  height: 300px;
+  text-align: center;
+ }
+
+ .form{
+  background-color: rgb(2, 2, 139);
+  width: 50%;
+  height: 300px;
+  font-size: larger;
+
+ }
